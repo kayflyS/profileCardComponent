@@ -15,7 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #19a2ae;
+    background-color: #18b8c7;
 }
 .header{
     max-width: 350px;
@@ -81,7 +81,7 @@ body{
     display:block;
     font-weight: 300;
     font-size: .9rem;
-    color: hsl(0, 0%, 59%);
+    color: hsl(0, 1%, 51%);
     letter-spacing: .1rem;
 }
 .photos{
@@ -95,5 +95,5 @@ body{
      font-size: 11px; text-align: center; 
     }
 .attribution a {
-     color: hsl(228, 45%, 44%); 
+     color: hsl(228, 47%, 52%); 
     }
